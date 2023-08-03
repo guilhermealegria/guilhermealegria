@@ -1,6 +1,6 @@
 ### Hi, Welcome to the my profile 👋
 
-My name is Guilherme Moraes Alegria and the are 8 year that work with quality assurance and tests. Below I bring some repositories for facility and aggregate at knowledge about test automation Web and API.
+I'm Guilherme Moraes Alegria and have 9 year experience work with quality assurance and tests. Below I bring some repositories for facility and aggregate at knowledge about test automation Web and API.
 <br>
 
 
