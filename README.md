@@ -14,6 +14,7 @@ I'm Guilherme Moraes Alegria and have 9 year experience work with quality assura
       * Csharp + Selenium ✅
       * Cypress.io ✅
       * RobotFramework ✅
+      * Playwright ✅
         Continues...
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=guilhermealegria)
