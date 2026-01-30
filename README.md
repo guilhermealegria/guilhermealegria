@@ -1,6 +1,6 @@
 ### Hi, Welcome to the my profile 👋
 
-I'm Guilherme Moraes Alegria and have 9 year experience work with quality assurance and tests. Below I bring some repositories for facility and aggregate at knowledge about test automation Web and API.
+I'm Guilherme Moraes Alegria and have 9 year experience work with quality assurance and tests. Below I bring some repositories for facility and aggregate at knowledge about test automation Web and API[...]
 <br>
 
 
@@ -22,3 +22,8 @@ I'm Guilherme Moraes Alegria and have 9 year experience work with quality assura
         
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/guilherme-moraes-alegria-8575ba92/)
+``` ````
+
+E aqui uma versão corrigida (removi as 4 espaços iniciais para que os itens sejam renderizados como lista):
+
+````markdown name=README.md url=https://github.com/guilhermealegria/guilhermealegria/blob/4d291db924a410071f849aa5528e88b596300394/README.md
